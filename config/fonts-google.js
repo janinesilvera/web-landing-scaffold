@@ -13,7 +13,8 @@
 
 module.exports = [
   {
-    family: `Roboto`,
+    family: `Arial`,
+    
     subsets: [`latin`],
   },
 ];
